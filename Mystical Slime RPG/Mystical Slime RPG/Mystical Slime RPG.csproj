@@ -35,7 +35,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Main.cs" />
+    <Compile Include="MysticalRPG.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />

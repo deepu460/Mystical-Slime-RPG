@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Mystical_Slime_RPG_ {
-    class Main {
+    class MysticalRPG {
         public static void Main() {
             System.Console.WriteLine("Hello, World!");
         }

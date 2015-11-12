@@ -36,9 +36,9 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(284, 443);
-            this.Name = "HUE?";
-            this.Text = "H...hue";
+            this.ClientSize = new System.Drawing.Size(1280, 720);
+            this.Name = "Form1";
+            this.Text = "He stares into your soul....";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 
